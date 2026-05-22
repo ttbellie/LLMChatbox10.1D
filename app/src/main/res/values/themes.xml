@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LLMChatBot" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/gradient_bottom</item>
+        <item name="colorPrimaryDark">@color/gradient_top</item>
+        <item name="colorAccent">@color/button_green</item>
+        <item name="android:statusBarColor">@color/gradient_top</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

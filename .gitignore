@@ -1,0 +1,21 @@
+# Local config / API keys
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+LLM_DECLARATION.md
+README.md

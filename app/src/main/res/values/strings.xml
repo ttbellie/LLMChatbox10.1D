@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LLM ChatBot</string>
+    <string name="welcome_title">Welcome,</string>
+    <string name="welcome_subtitle">Lets Chat!</string>
+    <string name="hint_username">Username</string>
+    <string name="action_go">Go</string>
+    <string name="hint_message">Type a message…</string>
+    <string name="welcome_user">Welcome User!</string>
+    <string name="typing">Bot is typing…</string>
+</resources>

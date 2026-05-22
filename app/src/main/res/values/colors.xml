@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand gradient (top -> bottom on login screen) -->
+    <color name="gradient_top">#22C5DD</color>
+    <color name="gradient_bottom">#26B0E6</color>
+
+    <!-- "Go" button -->
+    <color name="button_green">#3CD649</color>
+    <color name="button_green_dark">#28A636</color>
+
+    <!-- Chat bubbles -->
+    <color name="bubble_grey">#E0E0E0</color>
+    <color name="bubble_text">#222222</color>
+    <color name="time_text">#666666</color>
+
+    <!-- Avatars -->
+    <color name="bot_avatar">#26B0E6</color>
+    <color name="user_avatar">#26B0E6</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="hint_text">#7F000000</color>
+
+    <!-- Material defaults -->
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
